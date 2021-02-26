@@ -8,7 +8,7 @@ Firstly, in order to use it you need to fill 'log' and 'pas' variables with your
 
 Then, you need to fill related post url part(where **_'giveaway post's URL here'_** is written) with intended Instagram post's URL.
 
-Lastly, you need to write path of the text file that contains your followers. In order to tag your whole followers three by three you need to use first project in gitHub [Instagram-Followers](https://github.com/dorukarslan/Instagram-Followers). 
+Lastly, you need to write path of the text file that contains your followers. In order to tag your whole followers three by three you need to use my first project in GitHub [Instagram-Followers](https://github.com/dorukarslan/Instagram-Followers). 
 
 
 Then you need to write its path  to fill in the file variable(where **_'your path here'_** is written).
