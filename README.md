@@ -4,7 +4,7 @@ Python Selenium automation to tag followers in a text file to an intended post
 **Working Principle**
 In order to use it, you need to fill some parts in the code block.
 
-Firstly, in order to use it you need to fill 'log' and 'pas' variables with your Instagram username and password in order to login.
+Firstly, you need to fill 'log' and 'pas' variables with your Instagram username and password in order to login.
 
 Then, you need to fill related post url part(where **_'giveaway post's URL here'_** is written) with intended Instagram post's URL.
 
